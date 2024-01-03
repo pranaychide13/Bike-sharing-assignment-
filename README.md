@@ -1,3 +1,4 @@
+
 Bike Demand Prediction Project
 
 This project aims to build a multiple linear regression model to predict the demand for shared bikes in the American market. The dataset used for this analysis contains information on various factors that may influence bike demand, such as weather conditions, holidays, and seasons.
